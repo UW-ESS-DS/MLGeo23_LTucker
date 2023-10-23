@@ -1,7 +1,7 @@
 # MLGeo23_LTucker
-My name is Leigh Tucker and I left my job in accounting to learn more about one of my passions - geology.  Volcanos in particular.
+I left my job in accounting to learn more about one of my passions - geology.  Volcanos in particular.
 
-The purpose of this repository is to practice working with Git Hub and to have an available space to corraborate with my team for the group project.
+The purpose of this repository is to practice working with Git Hub and to have an available space to collaborate with my team for the group project.
 
 ## ESS 469
 https://github.com/UW-ESS-DS/MLGeo-2023
